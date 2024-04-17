@@ -3,7 +3,7 @@
 1. Clone the repo
 
 ```bash
-git clone https://your-repo-url.git
+git clone https://github.com/nagesh15/responsive_landing_page.git
 ```
 
 2. Install dependencies
